@@ -21,7 +21,7 @@
 
 header {
   background-color: rgb(48, 184, 184);
-  width: 100%;
+  width: 50%;
   height: 375pt;
   justify-content: center;
   align-items: center;
@@ -43,10 +43,11 @@ h1 {
 
 b {
   margin: 20px;
+  align: center;
 }
 
 .bottom-half {
-  width: 100%;
+  width: 50%;
   height: 375pt;
   background-color: rgb(16, 13, 9);
   display: flex;
