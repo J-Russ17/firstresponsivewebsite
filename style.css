@@ -33,6 +33,10 @@
   }
 }
 
+.whole {
+  background-color: black;
+}
+
 header {
   display: flex;
   flex-wrap: wrap;
@@ -43,11 +47,6 @@ header {
   font-family: "Noto Serif", serif;
   background-color: rgb(48, 184, 184);
   height: 50vh;
-}
-
-.bold {
-  font-weight: bold;
-  margin-left: 10pt;
 }
 
 .bottom-half {
