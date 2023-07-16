@@ -47,6 +47,7 @@ header {
   font-family: "Noto Serif", serif;
   background-color: rgb(48, 184, 184);
   height: 50vh;
+  color: white;
 }
 
 .bottom-half {
